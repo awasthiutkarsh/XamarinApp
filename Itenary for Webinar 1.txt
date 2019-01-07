@@ -1,0 +1,12 @@
+What is Xamarin
+Why Xamarin
+Xamarin Native vs Xamarin Forms
+VS setup, Introduction to Emulators
+Hello Xamarin App
+Labels, Buttons, Entry
+UI Styles - Bakgroundcolor, textColor, Font, Padding, VerticalOptions,Grid - Padding, 
+Adding New Page, Navigation- Navigation.PushaAsync- NavigationPages
+Passing Parameter between Pages- Parameterized constructors
+TabbedPage, CarouselPage, NavigationPage
+ListView, ItemTemplate  - DataTemplate, ViewCell, label binding, style
+MasterDetailPage, styles
